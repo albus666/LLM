@@ -4,13 +4,13 @@
 
 [toc]
 
-![git工作原理](C:\Users\c3322\Desktop\git工作原理.png)
+![git工作原理](https://github.com/albus666/LLM/blob/master/img/git%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.png)
 
 ###  1.安装及配置 
 
 > ####  1.1下载
 
-+ [GIT下载官网](https://git-scm.com/download)
++ [git下载官网](https://git-scm.com/download)
 
 + 下载完成后双击安装，自定义安装目录，勾选建立桌面快捷方式
 
@@ -25,15 +25,15 @@
 + *首次使用必须配置邮箱，密码！！！*配置命令如下：
 
   ```bash
-  git config --global user.name "YourName"`
-  git config --global user.email "YourEmail@xxx"`
+  git config --global user.name "YourName"
+  git config --global user.email "YourEmail@xxx"
   ```
   
 + 验证配置情况：
   
-	```bash
-  git config --global user.name`
-	git config --global user.email`
+  ```bash
+  git config --global user.name
+  git config --global user.email
   ```
   
 ### 2.使用流程
