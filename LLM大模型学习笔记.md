@@ -14,6 +14,6 @@ RoPE，Rotary Position Embedding，旋转位置编码，LLaMA
 
 RAG，retrieval augmented generation，检索增强生成
 
-![85f2af10464c44e9922c6122fe45749d](https://github.com/albus666/LLM/assets/173029141/8f2e5b3b-b0f7-472b-a6ec-daca78453ffb)
+![大模型分类](img/大模型分类.png)
 
 第一次学习怎样使用github,qwq做的不好请见谅
