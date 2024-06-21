@@ -4,11 +4,7 @@
 
 [toc]
 
-<<<<<<< HEAD
 ![git工作原理](img\git工作原理.png)
-=======
-![git工作原理](https://github.com/albus666/LLM/blob/master/img/git%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.png)
->>>>>>> 344ba1c6f2380b8fbd4e30b45a52b08733f8f705
 
 ###  1.安装及配置 
 
@@ -22,13 +18,11 @@
 
   *（如果是**win 11**，则需要按着**Shift**的同时右键）*，***Bash***为命令行页面，***GUI***为图形化页面，我们一般使用 ***Open Git Bash here***。
 
-
-
 > #### 1.2配置
 
 + *首次使用必须配置邮箱，密码！！！*配置命令如下：
 
-<<<<<<< HEAD
+
 ```bash
 git config --global user.name "YourName"
 git config --global user.email "YourEmail@xxx"
@@ -41,20 +35,8 @@ git config --global user.name
 git config --global user.email
 ```
 
-=======
-  ```bash
-  git config --global user.name "YourName"
-  git config --global user.email "YourEmail@xxx"
-  ```
-  
-+ 验证配置情况：
-  
-  ```bash
-  git config --global user.name
-  git config --global user.email
-  ```
-  
->>>>>>> 344ba1c6f2380b8fbd4e30b45a52b08733f8f705
+
+
 ### 2.使用流程
 
 > ####  2.1仓库初始化
