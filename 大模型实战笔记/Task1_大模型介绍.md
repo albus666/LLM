@@ -14,6 +14,6 @@ RoPE，Rotary Position Embedding，旋转位置编码，LLaMA
 
 RAG，retrieval augmented generation，检索增强生成
 
-![大模型分类](img/大模型分类.png)
+![大模型分类](../img/大模型分类.png)
 
 第一次学习怎样使用github,qwq做的不好请见谅
